@@ -1,12 +1,12 @@
-############################
-## Catppuccin Mocha Theme ##
-############################
+####################
+## Kanagawa Theme ##
+####################
 
 # This theme was based of the Catppuccin Mocha theme created by: https://github.com/AnshumanNeon
 
-###############################################################################
-#                                 Base Colors                                 #
-###############################################################################
+#################
+## Base Colors ##
+#################
 
 #-- Full Screen
 full_screen_fg = "#c8c093"
